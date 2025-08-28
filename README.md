@@ -1,9 +1,9 @@
 # Coding-Projects
 
-## Final Year Project
-https://github.com/taherahchoudhury/pratt-parser.git
+[Final Year Project - Pratt Parser (Java, CSS)] https://github.com/taherahchoudhury/pratt-parser.git
 
-## Snake Game
-https://github.com/taherahchoudhury/snake-game.git
+[Snake Game (JavaSript, HTML, CSS)] https://github.com/taherahchoudhury/snake-game.git
 
-## To Be Continued...
+[Maze Game (Python)] https://github.com/taherahchoudhury/maze-game.git
+
+### To Be Continued...
